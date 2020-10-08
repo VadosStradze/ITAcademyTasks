@@ -10,7 +10,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
 
-        /*//1:/
+        /*//1:
         double a=0;
         double b=0;
         double c=0;
