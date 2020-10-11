@@ -1,11 +1,11 @@
 package by.htp.les03.main;
+
 import java.util.Scanner;
-public class Sum {
-    public static void sum() {
 
+public class First_Task {
+
+    public static void a() {
         Scanner scanner = new Scanner(System.in);
-
-
         //1:
         double a=0;
         double b=0;
